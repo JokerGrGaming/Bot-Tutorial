@@ -1,4 +1,4 @@
-// Nzc3NjE0ODU0MDk2ODE0MDkx.X7GARA.fsxcwb0gok9LqkTxAvvcAKJOw98
+// ODY4MzE2MDI5NTM5OTk5Nzg2.YPt4UQ.beeVZb6ixtX-lX00HsFYGlPIbmQ
 // asfhiabwegweg
 const Discord = require('discord.js') 
 const bot = new Discord.Client({ws: {intents: Discord.Intents.ALL}});
@@ -69,4 +69,4 @@ bot.on('guildMemberAdd', (member) => {
     member.send(embed)
 })
 
-bot.login("Nzc3NjE0ODU0MDk2ODE0MDkx.X7GARA.fsxcwb0gok9LqkTxAvvcAKJOw98")
+bot.login("ODY4MzE2MDI5NTM5OTk5Nzg2.YPt4UQ.beeVZb6ixtX-lX00HsFYGlPIbmQ")
